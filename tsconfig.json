@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "none",
+    "types": ["@sapui5/ts-types"],
+    "allowJs": true,
+    "target": "ES5",
+    "lib": ["ES6", "dom"]
+  },
+  "include": ["webapp/**/*"]
+}
